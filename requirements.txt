@@ -55,3 +55,4 @@ webapp2==2.5.2
 wincertstore==0.2.1
 xmlrpclib==1.0.1
 Gunicorn
+Django
